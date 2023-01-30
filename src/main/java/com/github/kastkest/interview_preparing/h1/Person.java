@@ -1,4 +1,4 @@
-package com.github.kastkest.interview_preparing;
+package com.github.kastkest.interview_preparing.h1;
 
 public class Person {
     private String firstName;

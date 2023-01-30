@@ -1,9 +1,9 @@
-package com.github.kastkest.interview_preparing;
+package com.github.kastkest.interview_preparing.h1;
 
-import com.github.kastkest.interview_preparing.shapes.Circle;
-import com.github.kastkest.interview_preparing.shapes.Rectangle;
-import com.github.kastkest.interview_preparing.shapes.Shape;
-import com.github.kastkest.interview_preparing.shapes.Triangle;
+import com.github.kastkest.interview_preparing.h1.shapes.Circle;
+import com.github.kastkest.interview_preparing.h1.shapes.Rectangle;
+import com.github.kastkest.interview_preparing.h1.shapes.Shape;
+import com.github.kastkest.interview_preparing.h1.shapes.Triangle;
 
 import java.util.ArrayList;
 import java.util.List;
